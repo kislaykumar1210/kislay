@@ -1,0 +1,6 @@
+a = int(25)
+b = float(25.0)
+c = chr(25)
+d = str(75)
+print(d)
+print(type(d))
