@@ -1,6 +1,5 @@
-a = int(25)
-b = float(25.0)
-c = chr(25)
-d = str(75)
-print(d)
-print(type(d))
+a = 25
+b = 25.0
+c = 25
+FinalOutput = str(a + int(b) + int(c))
+print(FinalOutpost)
